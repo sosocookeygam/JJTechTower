@@ -1,1 +1,1 @@
-# JJTechTower
+# EC2 sample
